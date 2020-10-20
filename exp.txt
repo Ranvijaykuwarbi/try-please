@@ -1,0 +1,10 @@
+this is a text file
+
+Line one
+Line two 
+Line three
+Line four
+Line six
+Line seven
+
+These are the number of lines.
