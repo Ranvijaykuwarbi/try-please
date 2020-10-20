@@ -8,6 +8,8 @@ Line five
 Line six
 Line seven
 Line eight
+Line nine
+Line ten
 
 These are the number of lines
 
