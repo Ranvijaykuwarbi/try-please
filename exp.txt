@@ -9,4 +9,7 @@ Line six
 Line seven
 Line eight
 
-These are the number of lines.
+These are the number of lines
+
+Line after 1
+Line after 2.
