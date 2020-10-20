@@ -13,3 +13,5 @@ These are the number of lines
 
 Line after 1
 Line after 2.
+Line after 3.
+Line after 4.
